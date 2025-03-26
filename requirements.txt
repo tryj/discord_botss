@@ -54,8 +54,6 @@ PyNaCl==1.5.0
 pynput==1.8.0
 pyparsing==3.2.1
 pypiwin32==223
-pywin32==308
-pywin32-ctypes==0.2.3
 requests==2.32.3
 rotate-screen==0.1.5
 scipy==1.15.2
@@ -130,7 +128,6 @@ pyinstaller-hooks-contrib==2025.1
 PyNaCl==1.5.0
 pynput==1.8.0
 pyparsing==3.2.1
-pywin32-ctypes==0.2.3
 requests==2.32.3
 rotate-screen==0.1.5
 scipy==1.15.2
