@@ -1,4 +1,4 @@
 Flask
 Thread
 discord
-os
+os-sys
